@@ -1,0 +1,26 @@
+{
+  "name": "mipersonaltrainer",
+  "version": "1.0.0",
+  "description": "personal trainer app and services",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/JeromeMorrow07/MyPersonalTrainer.git"
+  },
+  "keywords": [
+    "personal",
+    "trainer"
+  ],
+  "author": "Jerome,SethFlox",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JeromeMorrow07/MyPersonalTrainer/issues"
+  },
+  "homepage": "https://github.com/JeromeMorrow07/MyPersonalTrainer#readme",
+  "dependencies": {
+    "express": "^4.14.0"
+  }
+}
